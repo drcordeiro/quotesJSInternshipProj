@@ -1,3 +1,6 @@
+Random Quote Generator built as an exercise to get acquainted with the React library. Written in JavaScript with embedded JSX and laid out with CSS FlexBox.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
